@@ -12,14 +12,14 @@ body {
 }
 
 
-.navigation__menu--link {
+.navigation__link {
     font-size: 15px;
     color: #fff;
     text-decoration: none;
     
 }
 
-.navigation__menu--link:hover {
+.navigation__link:hover {
     color: rgba(255, 255, 255, 0.8);
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
@@ -92,11 +92,11 @@ body {
     font-size: 14px;
 }
 
-.card__paragraph--description {
+.card__description {
     font-size: 12px;
 }
 
-.card__paragraph--bold {
+.bold {
     font-weight: bold;
 }
 
